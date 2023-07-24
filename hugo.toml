@@ -1,0 +1,10 @@
+baseURL = 'https://victor.denizfalcon.es/'
+[params]
+  AuthorName = 'Victor Deniz'
+  GitHubUser = 'vmdef'
+  SidebarRecentLimit = 5
+[permalinks]
+  posts = '/:year/:month/:title/'
+languageCode = 'en-us'
+title = 'Notes and thoughts'
+theme = 'ananke'
